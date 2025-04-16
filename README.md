@@ -1,2 +1,2 @@
 # Dice
-Python 
+Python | Monte Carlo Simulation 
